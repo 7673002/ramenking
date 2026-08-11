@@ -1,20 +1,20 @@
 {
   "updatedAt": "2026-08-11",
-  "source": "초기 수동 데이터 · 이후 GitHub Actions로 갱신",
+  "source": "GitHub Actions + Namuwiki Crawling",
   "ramen": [
     {
       "name": "신라면",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 270,
+      "cookingTime": 180,
       "popular": true,
       "sourceUrl": "https://namu.wiki/w/신라면"
     },
     {
-      "name": "진라면 매운맛",
+      "name": "진라면",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": true,
       "sourceUrl": "https://namu.wiki/w/진라면"
     },
@@ -22,7 +22,7 @@
       "name": "너구리",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 300,
+      "cookingTime": 180,
       "popular": true,
       "sourceUrl": "https://namu.wiki/w/너구리"
     },
@@ -30,7 +30,7 @@
       "name": "짜파게티",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 300,
+      "cookingTime": 180,
       "popular": true,
       "sourceUrl": "https://namu.wiki/w/짜파게티"
     },
@@ -38,7 +38,7 @@
       "name": "불닭볶음면",
       "type": "봉지라면",
       "brand": "삼양식품",
-      "cookingTime": 300,
+      "cookingTime": 180,
       "popular": true,
       "sourceUrl": "https://namu.wiki/w/불닭볶음면"
     },
@@ -70,7 +70,7 @@
       "name": "안성탕면",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 300,
+      "cookingTime": 180,
       "popular": false,
       "sourceUrl": "https://namu.wiki/w/안성탕면"
     },
@@ -78,7 +78,7 @@
       "name": "삼양라면",
       "type": "봉지라면",
       "brand": "삼양식품",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false,
       "sourceUrl": "https://namu.wiki/w/삼양라면"
     },
@@ -86,7 +86,7 @@
       "name": "참깨라면",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 270,
+      "cookingTime": 180,
       "popular": false,
       "sourceUrl": "https://namu.wiki/w/참깨라면"
     },
@@ -94,7 +94,7 @@
       "name": "사리곰탕면",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 300,
+      "cookingTime": 180,
       "popular": false,
       "sourceUrl": "https://namu.wiki/w/사리곰탕면"
     }
