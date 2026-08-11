@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "name": "신라면",
+      "type": "봉지라면",
+      "brand": "농심",
+      "url": "https://namu.wiki/w/신라면",
+      "popular": true
+    },
+    {
+      "name": "진라면",
+      "type": "봉지라면",
+      "brand": "오뚜기",
+      "url": "https://namu.wiki/w/진라면",
+      "popular": true
+    },
+    {
+      "name": "너구리",
+      "type": "봉지라면",
+      "brand": "농심",
+      "url": "https://namu.wiki/w/너구리",
+      "popular": true
+    },
+    {
+      "name": "짜파게티",
+      "type": "봉지라면",
+      "brand": "농심",
+      "url": "https://namu.wiki/w/짜파게티",
+      "popular": true
+    },
+    {
+      "name": "불닭볶음면",
+      "type": "봉지라면",
+      "brand": "삼양식품",
+      "url": "https://namu.wiki/w/불닭볶음면",
+      "popular": true
+    },
+    {
+      "name": "육개장",
+      "type": "컵라면",
+      "brand": "농심",
+      "url": "https://namu.wiki/w/육개장",
+      "popular": true
+    },
+    {
+      "name": "왕뚜껑",
+      "type": "컵라면",
+      "brand": "팔도",
+      "url": "https://namu.wiki/w/왕뚜껑",
+      "popular": true
+    },
+    {
+      "name": "새우탕",
+      "type": "컵라면",
+      "brand": "농심",
+      "url": "https://namu.wiki/w/새우탕",
+      "popular": true
+    },
+    {
+      "name": "안성탕면",
+      "type": "봉지라면",
+      "brand": "농심",
+      "url": "https://namu.wiki/w/안성탕면",
+      "popular": false
+    },
+    {
+      "name": "삼양라면",
+      "type": "봉지라면",
+      "brand": "삼양식품",
+      "url": "https://namu.wiki/w/삼양라면",
+      "popular": false
+    },
+    {
+      "name": "참깨라면",
+      "type": "봉지라면",
+      "brand": "오뚜기",
+      "url": "https://namu.wiki/w/참깨라면",
+      "popular": false
+    },
+    {
+      "name": "사리곰탕면",
+      "type": "봉지라면",
+      "brand": "농심",
+      "url": "https://namu.wiki/w/사리곰탕면",
+      "popular": false
+    }
+  ]
+}

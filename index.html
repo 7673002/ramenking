@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="라면 이름을 누르면 바로 끓이는 시간을 재주는 라면 타이머">
+  <title>라면 타이머 🍜</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <div class="brand">🍜 라면 타이머</div>
+      <h1>라면 이름만 누르세요.</h1>
+      <p>신라면, 진라면, 너구리… 라면에 맞는 시간을 바로 시작합니다.</p>
+      <div class="search-wrap">
+        <input id="searchInput" type="search" placeholder="라면 검색하기" autocomplete="off">
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="timer-panel" aria-live="polite">
+      <div class="timer-info">
+        <span id="timerType" class="eyebrow">READY</span>
+        <h2 id="timerName">라면을 선택하세요</h2>
+        <div id="timerDisplay" class="timer">00:00</div>
+        <div class="progress-track"><div id="timerProgress" class="progress"></div></div>
+      </div>
+      <div class="timer-actions">
+        <button id="startBtn" class="primary" disabled>▶ 시작</button>
+        <button id="pauseBtn" disabled>Ⅱ 일시정지</button>
+        <button id="resetBtn" disabled>↻ 초기화</button>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-title">
+        <h2>🔥 인기 라면</h2>
+        <span id="countText"></span>
+      </div>
+      <div id="popularGrid" class="ramen-grid"></div>
+    </section>
+
+    <section>
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-type="all" role="tab">전체</button>
+        <button class="tab" data-type="봉지라면" role="tab">봉지라면</button>
+        <button class="tab" data-type="컵라면" role="tab">컵라면</button>
+      </div>
+      <div id="ramenGrid" class="ramen-grid"></div>
+      <p id="emptyState" class="empty hidden">검색 결과가 없습니다.</p>
+    </section>
+
+    <p id="updatedAt" class="updated"></p>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>라면 정보는 자동 수집 데이터와 별도 검수 데이터로 구성됩니다.</p>
+      <p class="small">※ 조리시간은 제품별 포장지 표기와 다를 수 있으므로 실제 제품 안내를 우선하세요.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
