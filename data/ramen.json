@@ -6,35 +6,35 @@
       "name": "신라면",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 270,
       "popular": true
     },
     {
       "name": "신라면 블랙",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 270,
       "popular": true
     },
     {
       "name": "신라면 더 레드",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 270,
       "popular": true
     },
     {
       "name": "신라면 건면",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 270,
       "popular": true
     },
     {
       "name": "신라면 골드",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 270,
       "popular": true
     },
     {
@@ -48,42 +48,42 @@
       "name": "짜파게티",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": true
     },
     {
       "name": "짜왕",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": true
     },
     {
       "name": "농심 너구리",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "맛짬뽕",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "배홍동 비빔면",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
       "name": "농심 감자면",
       "type": "봉지라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     },
     {
@@ -97,7 +97,7 @@
       "name": "육개장 사발면",
       "type": "컵라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
@@ -111,14 +111,14 @@
       "name": "육개장 사발면(작은컵)",
       "type": "컵라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
       "name": "새우탕 큰사발면",
       "type": "컵라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
@@ -146,14 +146,14 @@
       "name": "신라면 컵라면(큰컵)",
       "type": "컵라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
       "name": "신라면 컵라면(작은컵)",
       "type": "컵라면",
       "brand": "농심",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
@@ -167,7 +167,7 @@
       "name": "불닭볶음면",
       "type": "봉지라면",
       "brand": "삼양식품",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
@@ -181,14 +181,14 @@
       "name": "삼양 나가사끼 짬뽕",
       "type": "봉지라면",
       "brand": "삼양식품",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "간짬뽕",
       "type": "봉지라면",
       "brand": "삼양식품",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
@@ -202,14 +202,14 @@
       "name": "짜짜로니",
       "type": "봉지라면",
       "brand": "삼양식품",
-      "cookingTime": 240,
+      "cookingTime": 330,
       "popular": false
     },
     {
       "name": "쇠고기면",
       "type": "봉지라면",
       "brand": "삼양식품",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
@@ -258,7 +258,7 @@
       "name": "스낵면",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 120,
       "popular": false
     },
     {
@@ -279,35 +279,35 @@
       "name": "진짬뽕",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "진짜장",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "오뚜기 짜장면",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "오뚜기 해물짬뽕",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "메밀비빔면",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     },
     {
@@ -321,14 +321,14 @@
       "name": "진비빔면",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     },
     {
       "name": "컵누들",
       "type": "컵라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
@@ -363,63 +363,63 @@
       "name": "진진짜라",
       "type": "봉지라면",
       "brand": "오뚜기",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "팔도 비빔면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     },
     {
       "name": "팔도 왕뚜껑",
       "type": "컵라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
       "name": "팔도 도시락",
       "type": "컵라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
       "name": "꼬꼬면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     },
     {
       "name": "남자라면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     },
     {
       "name": "팔도 짜장면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 270,
       "popular": false
     },
     {
       "name": "틈새라면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     },
     {
       "name": "일품 짜장면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
@@ -433,14 +433,14 @@
       "name": "팔도 비빔쫄면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 300,
       "popular": false
     },
     {
       "name": "킹뚜껑",
       "type": "컵라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
@@ -454,14 +454,14 @@
       "name": "팔도 진국설렁탕면",
       "type": "컵라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 180,
       "popular": false
     },
     {
       "name": "꼬간초 비빔면",
       "type": "봉지라면",
       "brand": "팔도",
-      "cookingTime": 240,
+      "cookingTime": 210,
       "popular": false
     }
   ]
